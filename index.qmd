@@ -1,7 +1,7 @@
 ---
 title: "Itinerary"
 author: "Dr. Adrian Correndo"
-date: 2025-08-24
+date: 2026-08-30
 listing:
   contents: posts
   sort: "date asc"
@@ -12,8 +12,8 @@ editor:
     wrap: sentence
 ---
 
-#### Welcome to the Midwest Tour 2025 Blog
+#### Welcome to the Midwest Tour 2026 Blog
 
-This blog documents our exciting trip to the US Midwest in 2025, each day's activities and logistic details.
+This blog documents our exciting trip to the US Midwest in 2026, each day's activities and logistic details.
 
 ![](uog.png){width="600"}
