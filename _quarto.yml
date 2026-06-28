@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Midwest Tour 2025"
+  title: "Midwest Tour 2026"
   navbar:
     left:
       - index.qmd
