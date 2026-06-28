@@ -1,2 +1,2 @@
-# mwtour25
-Midwest Tour 2025
+# mwtour26
+Midwest Tour 2026
