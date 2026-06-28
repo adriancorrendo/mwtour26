@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Midwest Tour 2025"
+  navbar:
+    left:
+      - index.qmd
+      - about.qmd
+      - notes.qmd
+    right:
+      - icon: globe
+        href: https://uoguelph.ca
+      - icon: twitter-x
+        href: https://twitter.com
+format:
+  html:
+    theme: simplex
+    css: styles.css
+
+editor: source
+
